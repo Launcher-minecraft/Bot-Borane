@@ -1,0 +1,9 @@
+{
+	"token": "YOURTOKEN",
+	"db": {
+		"host": "YOURHOST",
+		"user": "YOURUSER",
+		"pass": "YOURPASSWORD",
+		"database": "YOURDATABASE"
+	}
+}
